@@ -12,4 +12,4 @@ soll sie auch nach gewisser Betriebszeit gewechselt werden. Unser
 Nadel-Timer misst die echten Betriebsstunden und mahnt rechtzeitig
 einen Austausch an.
 
-Die Firmware wurde auf Platformio entwickelt, kann aber auch auf der Arduino-IDE übersetzt werden - dazu einfach einen Ordner *nadeltimer* anlegen und *main.cpp* in *nadeltimer.ino* umbenennen.
+Die Firmware wurde auf [Platformio](https://platformio.org/) entwickelt, kann aber auch auf der Arduino-IDE übersetzt werden - dazu einfach einen Ordner *nadeltimer* anlegen und *main.cpp* in *nadeltimer.ino* umbenennen.
