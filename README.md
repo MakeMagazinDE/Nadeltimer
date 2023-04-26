@@ -2,6 +2,7 @@
 
 Maker Media GmbH
 *** 
+![Aufmacher](https://github.com/MakeMagazinDE/Nadeltimer/blob/main/aufm_gh.jpg)
 
 # Nadeltimer
 
