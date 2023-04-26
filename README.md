@@ -12,4 +12,4 @@ soll sie auch nach gewisser Betriebszeit gewechselt werden. Unser
 Nadel-Timer misst die echten Betriebsstunden und mahnt rechtzeitig
 einen Austausch an.
 
-Die Firmware wurde auf [Platformio](https://platformio.org/) entwickelt, kann aber auch auf der Arduino-IDE übersetzt werden - dazu einfach einen Ordner *nadeltimer* anlegen und *main.cpp* in *nadeltimer.ino* umbenennen. Verwendet wird die *Ticker*-Library von Stefan Staub sowie das Library-Paket zum *Multi Function Shield*.
+Die Firmware wurde auf [Platformio](https://platformio.org/) entwickelt, kann aber auch auf der Arduino-IDE übersetzt werden - dazu einfach einen Ordner *nadeltimer* anlegen und *main.cpp* in *nadeltimer.ino* umbenennen. Verwendet wird die *Ticker*-Library von Stefan Staub sowie das Library-Paket zum *Multi Function Shield* von [Cohesive Computing](https://www.cohesivecomputing.co.uk/hackatronics/arduino-multi-function-shield/).
